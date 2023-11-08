@@ -65,9 +65,11 @@ D7 = X Y Z
 
 ### PROGRAM 
 
-Program for Endocers and Decoders  and verify its truth table in quartus using Verilog programming.
+#### Program for Endocers and Decoders  and verify its truth table in quartus using Verilog programming.
+```
 Developed by: RAJA R
 RegisterNumber:  212222100041
+```
 ## ENCODER:
 ```python
 module enc(a0,a1,a2,y0,y1,y2,y3,y4,y5,y6,y7);
@@ -137,3 +139,4 @@ endmodule
 
 
 ### RESULTS 
+Thus, the program to design encoder and decoder is successfully completed.
